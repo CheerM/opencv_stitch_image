@@ -1,0 +1,2 @@
+# opencv_stitch_image
+用根据特征匹配的方法实现图像拼接
